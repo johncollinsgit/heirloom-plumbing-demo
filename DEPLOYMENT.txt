@@ -1,0 +1,7 @@
+Heirloom Plumbing browse-only demonstration.
+
+Hosted with GitHub Pages from the main branch root.
+All job data is fictional. Operational actions are locked.
+No build, dependencies, API credentials, or backend are required.
+
+To preview locally: python3 -m http.server 4173

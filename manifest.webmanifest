@@ -1,0 +1,1 @@
+{"name": "Heirloom Plumbing \u00b7 Demo", "short_name": "Heirloom Demo", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#f7f7f2", "theme_color": "#183d35", "icons": [{"src": "assets/icon-192.png", "sizes": "192x122", "type": "image/png", "purpose": "any"}]}
